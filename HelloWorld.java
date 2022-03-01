@@ -7,5 +7,6 @@ public static void main(String [] args){
  String="Jogarao";
  c=50;
    system.print.ln(c);
+string="hello"
 }
 }
